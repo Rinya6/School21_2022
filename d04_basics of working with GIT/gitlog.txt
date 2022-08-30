@@ -1,0 +1,138 @@
+commit 1a7bdeba446b067fddaa1a9851639bfb46e2789f (HEAD -> main, origin/main)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Sun Aug 21 14:24:26 2022 +0300
+
+    File creation .DS_Store
+
+commit 7350182b49a510f216c246a3306d063307d6f09f (tag: v2)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 20:59:20 2022 +0300
+
+    Rule 7 added
+
+commit e4241642a419b6d17a6a96a3341df454d9489e57 (tag: v1)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 20:42:11 2022 +0300
+
+    Rule 6 added
+
+commit 5a10a0f4b5a96949ecb09ecd64fbd56012ec6838
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 16:55:40 2022 +0300
+
+    first commit
+:
+_____________________________
+
+commit 14040ccb595430f50b46f937a9da2093c82de2e8 (HEAD -> main)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Sun Aug 21 14:42:34 2022 +0300
+
+    Delete 6 points
+
+commit 1a7bdeba446b067fddaa1a9851639bfb46e2789f (origin/main)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Sun Aug 21 14:24:26 2022 +0300
+
+    File creation .DS_Store
+
+commit 7350182b49a510f216c246a3306d063307d6f09f (tag: v2)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 20:59:20 2022 +0300
+
+    Rule 7 added
+
+commit e4241642a419b6d17a6a96a3341df454d9489e57 (tag: v1)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 20:42:11 2022 +0300
+
+    Rule 6 added
+
+  -----------------------------------------
+
+commit 1a7bdeba446b067fddaa1a9851639bfb46e2789f (HEAD -> main, origin/main)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Sun Aug 21 14:24:26 2022 +0300
+
+    File creation .DS_Store
+
+commit 7350182b49a510f216c246a3306d063307d6f09f (tag: v2)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 20:59:20 2022 +0300
+
+    Rule 7 added
+
+commit e4241642a419b6d17a6a96a3341df454d9489e57 (tag: v1)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 20:42:11 2022 +0300
+
+    Rule 6 added
+
+commit 5a10a0f4b5a96949ecb09ecd64fbd56012ec6838
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 16:55:40 2022 +0300
+
+    first commit
+
+____________________
+
+commit 7350182b49a510f216c246a3306d063307d6f09f (HEAD -> main, tag: v2, origin/main)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 20:59:20 2022 +0300
+
+    Rule 7 added
+
+commit e4241642a419b6d17a6a96a3341df454d9489e57 (tag: v1)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 20:42:11 2022 +0300
+
+    Rule 6 added
+
+commit 5a10a0f4b5a96949ecb09ecd64fbd56012ec6838
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 16:55:40 2022 +0300
+
+    first commit
+
+_________________________
+
+
+commit 7350182b49a510f216c246a3306d063307d6f09f (HEAD -> main, origin/main)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 20:59:20 2022 +0300
+
+    Rule 7 added
+
+commit e4241642a419b6d17a6a96a3341df454d9489e57 (tag: v1)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 20:42:11 2022 +0300
+
+    Rule 6 added
+
+commit 5a10a0f4b5a96949ecb09ecd64fbd56012ec6838
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 16:55:40 2022 +0300
+
+    first commit
+
+____________________________
+
+
+commit e4241642a419b6d17a6a96a3341df454d9489e57 (HEAD -> main, origin/main)
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 20:42:11 2022 +0300
+
+    Rule 6 added
+
+commit 5a10a0f4b5a96949ecb09ecd64fbd56012ec6838
+Author: Irina <isaykinaiyu@gmail.com>
+Date:   Fri Aug 19 16:55:40 2022 +0300
+
+    first commit
+
+_____________________
+
+
+
+
+
