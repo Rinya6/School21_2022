@@ -1,0 +1,279 @@
+Task 1 продолжение: 
+ 100  git add README.md
+  101  ls
+  102  touch README.md
+  103  ls
+  104  open README.md
+  105  open README.md
+  106  git add README.md
+  107  git commit -m 'first commit'
+  108  git push
+  109  git branch -M main
+  110  git remote add origin https://github.com/Rinya6/s21_chickory.git
+  111  git push -u origin main
+  112  git push origin
+  113  git branch
+  114  ls
+  115  git status
+  116  git push
+  117  ls
+  118  cd ..
+  119  ls
+  120  git push
+  121  git push origin
+  122  git push -u origi mainn 
+  123  git push -u origi main 
+  124  git status
+  125  cd s21_chickory
+  126  ls
+  127  git status
+  128  git push -u origin main 
+  129  git init
+  130  git status
+  131  git log
+  132  git branch
+  133  git branch
+  134  git status
+  135  git log
+  136  git add README.md
+  137  git commit -m 'first commit'
+  138  --global
+  139  pwd
+  140  git config --global user.name "Irina"
+  141  git config --global user.email "isaykinaiyu@gmail.com"
+  142  git push
+  143  git push origin
+  144  git commit -m 'first commit'
+  145  git push
+  146  git status
+  147  git branch
+  148  git push-u origin main
+  149  git push -u origin main
+  150  git remote add origin https://github.com/Rinya6/s21_chickory.git
+  151  git push-u origin main
+  152  git push -u origin main
+  153  git push -u origin main
+  154  git push -u origin main
+  155  ls
+  156  git branch
+  157  git status
+  158  git branch --unset-upstream
+  159  git status
+  160  git add README.md
+  161  git commit -m "first commit"
+  162  ls
+  163  cd ..
+  164  ls
+  165  rm -rf s21_chickory
+  166  ls
+  167  ls
+  168  git clone https://github.com/Rinya6/s21_chickory.git
+  169  ls
+  170  cd s21_chickory
+  171  ls
+  172  toush README.md
+  173  touch README.md
+  174  ls
+  175  open README.md
+  176  open README.md
+  177  git add README.md
+  178  git commit -m "first commit"
+  179  git push
+  180  git push
+  181  git remote add origin https://github.com/Rinya6/s21_chickory.git
+  182  git push
+  183  git push
+  184  git ststus
+  185  git status
+  186  ls
+  187  open README.md
+  188  git status
+  189  git add README.md
+  190  git status
+  191  git commit -m 'Rule 6 added'
+  192  git status
+  193  git push
+  194  git status
+  195  git log
+
+Task 3:
+  196  git tag v1
+  197  open README.md
+  198  open README.md
+  199  git add README.md
+  200  git status
+  201  git commit -m 'Rule 7 added'
+  202  git push
+  203  git log
+  204  git reset
+  205  git log
+  206  open README.md
+  207  git reset README.md
+  208  git log
+  209  open README.md
+  210  git push origin v1
+  211  git checkout README.md
+  212  open README.md
+  213  git log
+  214  git status
+  215  git checkout main
+  216  open README.md
+  217  git checkout -- README.md
+  218  open README.md
+  219  git log
+  220  git status
+  221  git reset HEAD README.md
+  222  open README.md
+  223  git log
+  224  git status
+  225  git add *
+  226  git status
+  227  git log
+  228  git checkout v1
+  229  open README.md
+  230  git switch -
+  231  open README.md
+
+Task 4:
+  232  git tag v2
+  233  git log
+  234  ~/.gitignore_global*~ .*.swp .DS_Store
+  235  git log
+  236  ~/.gitignore_global
+  237  ls
+  238  git touch .gitignore
+  239  touch .gitignore
+  240  ls
+  241  cat .gitignore
+  242  ls
+  243  touch ~/.gitignore
+  244  ls
+  245  git status
+  246  open ~/.gitignore
+  247  cd ..
+  248  ls
+  249  cd s21_chickory
+  250  ls
+  251  open ~/.gitignore
+  252  git config --global core.excludesfile ~/.gitignore
+  253  ls
+  254  git status
+  255  open ~/.gitignore
+  256  touch .DS_Store
+  257  ls
+  258  gir status
+  259  git status
+  260  git add 
+  261  git add .
+  262  git status
+  263  git commit -m 'Fik\ngit commit -m 'File creation .DS_Store'\n\ngit status\n\n\n'
+  264  git commit - m 'File creation .DS_Store'
+  265  git commit -m 'File creation .DS_Store'
+  266  git push
+  267  git push v2
+  268  git push origin v2
+  269  git log
+  270  open .gitignore
+  271  open .DS_Store
+  272  open .gitignore
+  273  ls
+  274  open README.md
+
+Task 5:
+  275  open README.md
+  276  git log
+  277  git checkout README.md
+  278  open README.md
+  279  open README.md
+  280  open README.md
+
+Task 7: ОШИБОЧНО, повтор ниже
+  281  open README.md
+  282  git status
+  283  git add .
+  284  git commit -m 'Delete 6 points'
+  285  git reset HEAD README.md
+  286  open README.md
+  287  git status
+  288  git log
+  289  git status
+  290  ls
+  291  git reset HEAD README.md
+  292  open README.md
+  293  git log
+  294  git checkout README.md
+  295  git status
+  296  open README.md
+  297  git reset HEAD README.md
+  298  open README.md
+  299  git log
+  300  git status
+  301  git checkout -- README.md
+  302  git status
+  303  git reset HEAD README.md
+  304  git status
+  305  git commit --amend
+  306  git status
+  307  git add forgotten_file
+  308  git log
+  309  git add *
+  310  git status
+  311  git reset HEAD
+  312  git log
+  313  git status
+  314  git reset HEAD~
+  315  git status
+  316  git log
+  317  open README.md
+  318  git reset HEAD README.md
+  319  open README.md
+  320  fit status
+  321  git status
+  322  git reset HEAD README.md
+  323  git log
+  324  open README.md
+  325  git checkout -- README.md
+  326  open README.md
+  327  git log
+  328  git status
+  329  open README.md
+
+Task 6:
+  330  open README.md
+  331  git status
+  332  add .
+  333  git add .
+  334  git status
+  335  git reset HEAD README.md
+  336  open README.md
+  337  git status
+  338  git log
+  339  git status
+  340  open README.md
+  341  git checkout -- README.md
+  342  open README.md
+  343  open README.md
+
+Task 7:
+  344  open README.md
+  345  git add .
+  346  git commit -m 'Delete 6 points'
+  347  git reset HEAD
+  348  git status
+  349  git reset HEAD~
+  350  git status
+  351  open README.md
+  352  git checkout README.md
+  353  open README.md
+
+Создание файлов, для GitLab
+  354  touch repo-link.txt
+  355  open repo-link.txt
+  356  ls
+  357  touch gitlog.txt
+  358  open gitlog.txt
+  359  git log
+  360  touch cli-hist.txt
+  361  open cli-hist.txt
+  362  git history
+  363  history
